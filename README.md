@@ -2,7 +2,7 @@
 
 A web app that finds potholes and road cracks in a photo. Upload a road image and get annotated results, damage counts and a details table on a separate results page.
 
-**Live demo:** _add your Streamlit link here_
+**Live demo:** https://road-damage-detection-kzlp9ws9pxg7pevsaop8xt.streamlit.app/
 
 ![Upload page](screenshots/upload.png)
 ![Results page](screenshots/results.png)
