@@ -3,6 +3,7 @@ torch
 torchvision
 streamlit
 ultralytics
+opencv-python-headless
 pillow
 pillow-avif-plugin
 pandas
